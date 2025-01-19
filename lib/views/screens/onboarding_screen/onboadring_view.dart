@@ -19,7 +19,7 @@ class OnBoardingScreen extends StatelessWidget {
             height: 70,
           ),
           Expanded(
-            flex: 5,
+            flex: 6,
             child: CustomSliderOnBoarding()
           ),
          DorOnBoarding(),
